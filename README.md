@@ -1,16 +1,3 @@
-# E-Commerce REST API
-
-A production-ready REST API built with Python Flask, containerized with Docker, and deployed with CI/CD automation.
-
-## 🚀 Live Demo
-
-**API URL:** https://ecommerce-api-production-b239.up.railway.app
-
-Try it now:
-```bash
-curl https://ecommerce-api-production-b239.up.railway.app/
-```
-
 ## 📋 Features
 
 - ✅ Complete CRUD operations (Create, Read, Update, Delete)
@@ -36,7 +23,7 @@ The API follows a three-layer architecture:
 - **Database:** SQLite3
 - **Containerization:** Docker
 - **CI/CD:** GitHub Actions
-- **Deployment:** Railway.app
+- **Deployment:** Railway.app (not anymore)
 
 ## 📦 Project Structure
 
